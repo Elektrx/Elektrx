@@ -1,15 +1,14 @@
-
-
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github.com/user-attachments/assets/3e25a87b-0f53-4195-8692-cd98f806cfa7" alt="Unknown_11zon" width="100" height="100">
     </td>
-    <td>
-      <h1 style="color:white;">👋 Hi there, I'm Sheila!</h1>
+    <td style="border: none; vertical-align: none;">
+      <h1 style="color:white; margin: 0;">👋 Hi there, I'm Sheila!</h1>
     </td>
   </tr>
 </table>
+
 
 I'm a **Physicist** recently graduated with a **Master's degree in Particle Physics**. Currently, I'm diving into the world of **Scientific Computing**, where I'm exploring:
 
