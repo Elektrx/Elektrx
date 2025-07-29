@@ -24,7 +24,7 @@ My goal is to become more confident and effective in solving real-world problems
 ---
 
 ## 📊 GitHub Stats
-![Sheila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elektrx&show_icons=true&theme=nightowl)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elektrx&theme=nightowl)
+![Sheila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elektrx&show_icons=true&theme=nightowl)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elektrx&theme=nightowl)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elektrx&layout=compact&theme=nightowl)  
 
 
