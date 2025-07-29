@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sheila!
 
-<!--
-**Elektrx/Elektrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Physicist** recently graduated with a **Master's degree in Particle Physics**. Currently, I'm diving into the world of **Scientific Computing**, where I'm exploring:
 
-Here are some ideas to get you started:
+- 🧠 Projects involving **Machine Learning** techniques  
+- 📊 Applications of **Data Analysis**  
+- 🤖 Training **AI models** to automate processes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become more confident and effective in solving real-world problems through code and data. I'm passionate about bridging the gap between science and technology, and I'm constantly learning to improve my skills as a future **Software Engineer**.
+
+
+## 📫 **Let's connect!**  
+![Linkedn] (www.linkedin.com/in/sheila-rodríguez-garcía-538a02273) • ![Email]()
+
+
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-377upyter-F37626?style=for-the-badge&logo=jupyter&logoColor=whitedge&logo=scikit-learn&logoColor
